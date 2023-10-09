@@ -11,6 +11,6 @@ Provided with three csv data files, concerning Tehran's electricity consumption 
 6. Average year-to-year electricity consumption increase (Q6)
 7. Loadshed Occurence among different hours throughout a day, in case of excessive consumption (Q7)
 
-In addition to aforementioned files, 2 more helper functions were used (commited with $helper_function message) that deal with date conversions and further necessary calculations.
+In addition to aforementioned files, 2 more helper functions were used (commited with $helper_function$ message) that deal with date conversions and further necessary calculations.
 One final file was also created to produce a collective final report on the whole project using files above. 
 
